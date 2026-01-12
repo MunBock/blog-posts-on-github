@@ -14,7 +14,7 @@ authorBio: "Software Engineer and Founder of Bockdev"
 
 ## A Sleek and Efficient Way to Share Your Thoughts
 
-![Blog System Banner](https://raw.githubusercontent.com/Dicklesworthstone/yto_blog_posts/refs/heads/main/blog_01_banner.webp)
+![Blog System Banner](https://raw.githubusercontent.com/MunBock/blog-posts-on-github/refs/heads/main/google-ap2.webp)
 
 Hello, fellow developers and tech enthusiasts! Today, I'm excited to introduce our brand new blogging system built with Next.js and styled with Tailwind CSS. This powerful combination allows for a fast, responsive, and visually appealing blog that's easy to maintain and expand.
 
