@@ -7,7 +7,7 @@ tags: ["Next.js", "Tailwind CSS", "Blogging", "GitHub"]
 coverImage: "https://raw.githubusercontent.com/MunBock/blog-posts-on-github/refs/heads/main/google-ap2.webp"
 author: "Mun Bock Ho"
 authorImage: "https://bockdev.com/images/munbock-ho.jpg"
-authorBio: "Software Engineer and Founder of Bockdev"
+authorBio: "Software Developer and Founder of Bockdev"
 ---
 
 # Introducing Our New Next.js Blogging System with Tailwind CSS
@@ -29,7 +29,6 @@ Hello, fellow developers and tech enthusiasts! Today, I'm excited to introduce o
 4. **Fast Loading**: Next.js's static site generation capabilities mean that our blog pages load incredibly quickly, providing a smooth user experience.
 
 5. **Rich Markdown Support**: We support GitHub Flavored Markdown, allowing for a wide range of formatting options. Let's test some of them:
-
    - _Italic_ and **bold** text
    - [Links to external sites](https://nextjs.org)
    - Lists (like this one!)
@@ -38,7 +37,7 @@ Hello, fellow developers and tech enthusiasts! Today, I'm excited to introduce o
      ```javascript
      const getBlogPosts = async () => {
        const response = await fetch(
-         "https://api.github.com/repos/user/blog-posts/contents"
+         "https://api.github.com/repos/user/blog-posts/contents",
        );
        const files = await response.json();
        return files.filter((file) => file.name.endsWith(".md"));
