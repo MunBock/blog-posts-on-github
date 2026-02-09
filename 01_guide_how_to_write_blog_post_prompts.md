@@ -20,7 +20,7 @@ The frustration is real, but the problem isn't the AI—it's the input. The qual
 
 In this guide, we'll dismantle the "garbage in, garbage out" cycle. You'll learn how to craft structured, powerful prompts that force the AI to write like a human expert, not a generic autocomplete engine.
 
-## I. Define the Role & Persona
+## 1. Define the Role & Persona
 
 The first thing you must do is tell the AI **who** it is. Without a persona, the AI defaults to a neutral, helpful assistant voice that often feels bland. By assigning a specific role, you unlock specialized vocabulary, tone, and perspective.
 
@@ -31,7 +31,7 @@ The first thing you must do is tell the AI **who** it is. Without a persona, the
 > **Weak**: "Write a blog post about coding."
 > **Strong**: "Act as a Senior Python Engineer writing for a technical audience. Your tone should be pragmatic and slightly cynical about over-engineering."
 
-## II. Set the Context & Background (The "Why")
+## 2. Set the Context & Background (The "Why")
 
 Context is king. If the AI doesn’t understand _why_ you are writing this post, it will guess—and usually guess wrong. You need to frame the discussion.
 
@@ -40,7 +40,7 @@ Context is king. If the AI doesn’t understand _why_ you are writing this post,
 
 Giving the AI a mission prevents it from wandering into irrelevant territory.
 
-## III. Specify the Audience (The "Who")
+## 3. Specify the Audience (The "Who")
 
 Writing for a C-level executive is vastly different from writing for a hobbyist. You must tell the AI exactly who is reading.
 
@@ -50,7 +50,7 @@ Writing for a C-level executive is vastly different from writing for a hobbyist.
 
 > **Constraint**: "Assume the reader understands basic JavaScript but struggles with asynchronous patterns."
 
-## IV. Define the Task (The "What")
+## 4. Define the Task (The "What")
 
 Don't just ask for a "blog post." Be specific about the format and structure.
 
@@ -63,7 +63,7 @@ Don't just ask for a "blog post." Be specific about the format and structure.
 
 _Pro Tip_: Ask the AI to generate 5-10 click-worthy titles _before_ writing the post. It forces the model to brainstorm hooks early.
 
-## V. Set Constraints & Formatting (The "Rules")
+## 5. Set Constraints & Formatting (The "Rules")
 
 This is where you prevent the common AI pitfalls like fluff and weird formatting.
 
@@ -75,7 +75,7 @@ This is where you prevent the common AI pitfalls like fluff and weird formatting
   - "Do NOT use words like 'unleash', 'unlock', 'delve', or 'tapestry'."
 - **SEO Requirements**: If needed, list keywords to include naturally.
 
-## VI. Review & Refine (The "Loop")
+## 6. Review & Refine (The "Loop")
 
 The best content comes from iteration, not a single shot.
 
@@ -83,7 +83,7 @@ The best content comes from iteration, not a single shot.
 - **"Show, Don't Tell"**: Explicitly ask for examples. "Don't just explain the concept; provide a code snippet or a real-world analogy to illustrate it."
 - **Tone Check**: If the output feels off, refine it. "That sounded too robotic. Rewrite the introduction to be more personal, as if you're speaking to a friend."
 
-## VII. Example Prompt Structure (Template)
+## 7. Example Prompt Structure (Template)
 
 Ready to write? Copy this template and fill in the brackets for your next post.
 
