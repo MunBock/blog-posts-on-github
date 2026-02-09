@@ -4,7 +4,7 @@ date: "2026-02-09"
 excerpt: "Motivation gets you started, but habit is what keeps you going. Explore the psychological framework for building unbreakable good habits."
 category: "Personal Growth"
 tags: ["Habits", "Productivity", "Psychology", "Self-Improvement"]
-coverImage: "PENDING_GENERATION"
+coverImage: "https://raw.githubusercontent.com/MunBock/blog-posts-on-github/refs/heads/main/google-ap2.webp"
 author: "Mun Bock Ho"
 authorImage: "https://bockdev.com/images/munbock-ho.jpg"
 authorBio: "Software Developer and Founder of Bockdev"
