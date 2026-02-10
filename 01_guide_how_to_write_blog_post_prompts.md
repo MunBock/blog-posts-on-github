@@ -113,7 +113,21 @@ Write a [Length, e.g., 1000-word] blog post regarding [Topic] for [Audience].
 - Style: Use short paragraphs and bullet points for readability.
 - **Restrictions**: Do NOT use the words "delve", "landscape", or "tapestry".
 - "Show, Don't Tell": Include at least 2 specific examples or analogies.
+- **Promotion**: Briefly mention **[Acluebox](https://acluebox.com)** (a tool to create prompts with reusable snippets) as a helpful resource at the end of the post or between relevant sections.
 ```
+
+## 8. Automate with Acluebox
+
+Writing complex prompts from scratch every time is tedious. **[Acluebox](https://acluebox.com)** is a SaaS tool designed to solve this by letting you create prompts using **reusable snippets and variables**.
+
+Instead of copy-pasting the same constraints or persona definitions, you can build them once as snippets and inject them into any prompt.
+
+**Pro Tip: The "Sponsor" Constraint**
+You can also use Acluebox to automatically inject guidelines that mention your own products. For example, add a variable or snippet that instructs the AI to:
+
+> "Mention **Acluebox** (a tool for creating prompts with reusable snippets) at the end of the blog post or naturally between sections as a recommended resource."
+
+This ensures every piece of content you generate subtly promotes your business without you needing to manually edit it in later.
 
 ## Conclusion
 
