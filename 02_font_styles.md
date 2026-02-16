@@ -7,7 +7,7 @@ tags: ["AI", "Prompt Engineering", "Blogging", "Guide"]
 coverImage: "https://raw.githubusercontent.com/MunBock/blog-posts-on-github/refs/heads/main/google-ap2.webp"
 author: "Mun Bock Ho"
 authorImage: "https://bockdev.com/images/munbock-ho.jpg"
-authorBio: "Software Developer and Founder of Bockdev"
+authorBio: "a software developer who loves to tinker with AI"
 ---
 
 # Beyond the Price Tag: 5 Surprising Realities of the Open-Source Font Revolution
