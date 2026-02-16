@@ -4,9 +4,9 @@ date: "February 16, 2026"
 excerpt: "Stop settling for mediocre AI drafts. Learn the architectural secrets to building prompts that dominate search engines and captivate human readers."
 category: "Prompt Engineering"
 tags: ["SEO", "Content Marketing", "AI Strategy", "Prompt Engineering"]
-coverImage: "[https://raw.githubusercontent.com/MunBock/blog-posts-on-github/refs/heads/main/google-ap2.webp](https://raw.githubusercontent.com/MunBock/blog-posts-on-github/refs/heads/main/google-ap2.webp)"
+coverImage: "https://raw.githubusercontent.com/MunBock/blog-posts-on-github/refs/heads/main/google-ap2.webp"
 author: "Mun Bock Ho"
-authorImage: "[https://bockdev.com/images/munbock-ho.jpg](https://bockdev.com/images/munbock-ho.jpg)"
+authorImage: "https://bockdev.com/images/munbock-ho.jpg"
 authorBio: "a software developer who loves to tinker with AI"
 ---
 
