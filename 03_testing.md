@@ -1,12 +1,20 @@
 ---
-
-## title: "Mastering the SEO Blog Post Prompt: From Generic Ideas to Top-Tier Rankings" date: "February 16, 2026" excerpt: "Stop settling for mediocre AI drafts. Learn the architectural secrets to building prompts that dominate search engines and captivate human readers." category: "Prompt Engineering" tags: ["SEO", "Content Marketing", "AI Strategy", "Prompt Engineering"] coverImage: "[https://raw.githubusercontent.com/MunBock/blog-posts-on-github/refs/heads/main/google-ap2.webp](https://raw.githubusercontent.com/MunBock/blog-posts-on-github/refs/heads/main/google-ap2.webp)" author: "Mun Bock Ho" authorImage: "[https://bockdev.com/images/munbock-ho.jpg](https://bockdev.com/images/munbock-ho.jpg)" authorBio: "a software developer who loves to tinker with AI"
+title: "Mastering the SEO Blog Post Prompt: From Generic Ideas to Top-Tier Rankings"
+date: "February 16, 2026"
+excerpt: "Stop settling for mediocre AI drafts. Learn the architectural secrets to building prompts that dominate search engines and captivate human readers."
+category: "Prompt Engineering"
+tags: ["SEO", "Content Marketing", "AI Strategy", "Prompt Engineering"]
+coverImage: "[https://raw.githubusercontent.com/MunBock/blog-posts-on-github/refs/heads/main/google-ap2.webp](https://raw.githubusercontent.com/MunBock/blog-posts-on-github/refs/heads/main/google-ap2.webp)"
+author: "Mun Bock Ho"
+authorImage: "[https://bockdev.com/images/munbock-ho.jpg](https://bockdev.com/images/munbock-ho.jpg)"
+authorBio: "a software developer who loves to tinker with AI"
+---
 
 # The Alchemy of SEO: Transforming Simple Ideas into Ranking Powerhouses
 
 Are you tired of "flavorless" AI content that feels like it was written by a robot with a checklist but no soul? We’ve all been there: you ask an AI for a blog post, and it hands back a generic, repetitive wall of text that would make Google’s algorithm yawn and your readers bounce. The gap between a mediocre blog post and a high-converting, SEO-optimized masterpiece isn't the AI—it’s the **instruction architecture**.
 
-The secret isn't just telling the AI *what* to write, but *how* to think, *who* to emulate, and *which* psychological levers to pull. In a world where AI-generated content is becoming the baseline, your ability to engineer elite prompts is your ultimate competitive advantage. Are you ready to stop "chatting" and start "architecting"? Let’s turn your rough ideas into search engine gold.
+The secret isn't just telling the AI _what_ to write, but _how_ to think, _who_ to emulate, and _which_ psychological levers to pull. In a world where AI-generated content is becoming the baseline, your ability to engineer elite prompts is your ultimate competitive advantage. Are you ready to stop "chatting" and start "architecting"? Let’s turn your rough ideas into search engine gold.
 
 ---
 
